@@ -1,2 +1,8 @@
-{"name":"STAKESIDE POOL","ticker":"SPO","description":"A Cardano stake pool with a mission to support decentralized blockchain technology.","homepage":"http://stakeside.xyz"}
-
+{
+  "name": "STAKESIDE POOL",
+  "ticker": "SPO",
+  "description": "A Cardano stake pool with a mission to support decentralized blockchain technology.",
+  "homepage": "http://stakeside.xyz",
+  "nonce": "1662023786",
+  "extended": "https://tinyurl.com/stakeside-extended"
+}
